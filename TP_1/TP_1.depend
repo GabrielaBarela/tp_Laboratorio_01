@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650073702 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	"BIBLIOTECA.h"
+
+1650076095 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_1\biblioteca.h
+
+1650078650 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+
