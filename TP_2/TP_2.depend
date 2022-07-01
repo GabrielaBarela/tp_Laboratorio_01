@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1652205963 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_2\arraypassenger.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayPassenger.h"
+	"utn.h"
+
+1652206888 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"ArrayPassenger.h"
+	"utn.h"
+
+1652206613 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_2\arraypassenger.h
+
+1651970236 source:c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1651960418 c:\users\vaio\desktop\facultad\codeblocks\programaciones\proyecto 1\tp_2\utn.h
+
